@@ -1,0 +1,5 @@
+Pandas    : 2.3.3
+NumPy     : 2.2.6
+Matplotlib: 3.10.9
+Seaborn   : 0.13.2
+Scikit-Learn: 1.7.2
