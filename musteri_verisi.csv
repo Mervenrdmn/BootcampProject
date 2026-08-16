@@ -1,0 +1,252 @@
+dogum yili,gelir,abonelik suresi,destek_talebi_Sayisi,sehir,uyelik_Tipi,churn
+2012,66212.0,10,5, kocaeli,Standart,1
+1975,73525.0,26,7,Antalya,Standart,1
+2021,77202.0,34,8,İzmir, Premium,1
+1981,62635.0,51,1,Antalya,Standart,0
+1984,93208.0,41,6,Antalya,Premium,1
+1963,63828.0,7,1,Antalya,Standart,0
+1982,48711.0,4,2,İzmir,Premium,0
+2013,33420.0,58,1,Bursa,Platin,0
+1962,126752.0,53,, kocaeli,standard ,0
+1990,30301.0,50,9, kocaeli,Standart,1
+1998,75236.0,45,,Ankara,Standart,1
+1962,145294.0,11,1,bursa,Standart,0
+2024,147858.0,29,1,bursa, Premium,0
+2020,96235.0,56,2,istanbul ,standard ,0
+1981,84240.0,36,9,bursa,Premium,1
+1993,95726.0,25,,İzmir,Premium,0
+2018,40492.0,21,1,Konya,Platin,0
+1982,145668.0,57,5,İstanbul,Standart,0
+2009,131279.0,36,7,istanbul , Premium,1
+2019,36102.0,10,6,İstanbul,Premium,1
+2002,80336.0,37,1, kocaeli,Standart,0
+2020,148015.0,9,5,İstanbul,Premium,1
+1975,115314.0,24,5,İstanbul,Standart,1
+2022,56641.0,35,6,istanbul ,Standart,1
+2022,64584.0,49,3,Ankara,Platin,0
+2007,62745.0,35,5,Antalya,Standart,0
+2022,53093.0,48,7,bursa,Premium,1
+2011,96105.0,36,5,bursa,Standart,1
+2015,133746.0,18,5,İzmir,Standart,1
+2024,130199.0,49,5,istanbul ,Standart,0
+1963,81885.0,39,3,İzmir,Standart,0
+2011,66631.0,32,1,Konya,Platin,0
+1967,141217.0,24,5,Konya,Standart,1
+1981,102991.0,23,9,İzmir,Premium,1
+1999,34014.0,32,1,istanbul ,Premium,0
+1978,41093.0,37,3,İzmir,Platin,0
+1964,48070.0,12,4,bursa, Premium,1
+2020,65777.0,49,1,Bursa,Platin,0
+1974,86958.0,55,1,İstanbul,Standart,0
+1969,112074.0,13,8,Bursa,Standart,1
+2013,40729.0,23,2,istanbul ,Standart,0
+1962,129713.0,25,8,Bursa,Premium,1
+2020,75017.0,35,7,Konya,Standart,1
+2004,96320.0,41,, kocaeli,Premium,0
+1968,57751.0,30,6,İstanbul,Premium,1
+2007,136400.0,17,6,Antalya,Standart,1
+1995,135864.0,49,3,istanbul ,Platin,0
+1996,108069.0,20,2,İstanbul,Standart,0
+2010,135647.0,48,1,Bursa,Standart,0
+1964,135510.0,25,6,Konya,Platin,1
+1962,84748.0,22,5,Ankara,Premium,1
+1966,35801.0,13,9,Antalya,Platin,1
+2014,49190.0,59,1,İstanbul,Premium,0
+1964,79689.0,19,7,Konya,Standart,1
+2014,134290.0,49,5,Konya,standard ,0
+2023,80993.0,36,5,Bursa,Platin,0
+1978,59592.0,12,2,bursa,Platin,0
+2004,40647.0,41,3,Bursa,Standart,0
+1994,38716.0,19,7,bursa,Premium,1
+2022,118891.0,12,6,bursa,Standart,1
+1974,117545.0,9,2,Antalya,Standart,0
+2008,147638.0,7,6,Bursa, Premium,1
+1975,119912.0,28,2,Ankara,Standart,0
+2022,140627.0,14,2,İzmir, Premium,0
+2000,100316.0,31,2,İzmir,Premium,0
+2013,32368.0,52,3,Bursa,Standart,0
+1984,107575.0,19,2,Bursa,Premium,0
+1986,36655.0,58,4,Antalya,standard ,0
+2020,136477.0,47,9,Bursa,Platin,1
+2001,100031.0,16,6,bursa,standard ,1
+1989,106429.0,53,1,Konya,Platin,0
+1975,121083.0,5,,Konya,Platin,1
+2005,117922.0,35,7,bursa,standard ,1
+2025,85766.0,12,3,istanbul ,Standart,0
+1969,43403.0,25,1,bursa,Premium,0
+1961,62097.0,52,5,Ankara,Standart,0
+1968,108657.0,59,4, kocaeli, Premium,0
+2023,40966.0,21,8,İstanbul, Premium,1
+1971,129157.0,36,1,bursa,Standart,0
+1968,148834.0,53,1,Bursa,Platin,0
+1995,123848.0,23,4,Bursa, Premium,0
+1995,82921.0,16,8,Antalya,Standart,1
+1993,79726.0,57,5,bursa,Premium,0
+1965,80300.0,39,2,Antalya, Premium,0
+2001,52677.0,45,6,bursa,Standart,1
+1988,85609.0,53,5,İstanbul,Platin,0
+1967,126825.0,42,2, kocaeli,Standart,0
+1972,86661.0,58,3,Konya, Premium,0
+1994,61024.0,39,9,İzmir, Premium,1
+1993,138211.0,14,7,bursa, Premium,1
+2008,100313.0,31,7, kocaeli,Premium,1
+1983,83006.0,58,6,Konya,standard ,0
+2022,125285.0,5,,istanbul ,standard ,1
+1997,45338.0,35,4,İstanbul,Standart,0
+2004,98027.0,23,8,Antalya,standard ,1
+1995,122772.0,29,4,Antalya,Standart,0
+2025,143632.0,43,8,Bursa,Premium,1
+2007,110135.0,11,9,Konya,Standart,1
+1963,49508.0,18,3,istanbul ,Standart,0
+1961,33051.0,47,, kocaeli,Standart,0
+1965,78747.0,12,2,İstanbul,Platin,0
+1974,144692.0,9,,Konya,Standart,0
+1987,117142.0,10,3,istanbul ,Platin,0
+1969,117235.0,58,5,İzmir,Standart,0
+1975,84021.0,44,5,bursa,Standart,0
+2002,96412.0,17,2,Antalya,Premium,0
+2011,88335.0,38,6, kocaeli,Platin,1
+2023,86179.0,7,5,Antalya,Standart,1
+2012,62093.0,46,6, kocaeli,Premium,0
+1964,99678.0,13,1,Bursa,standard ,0
+1983,110738.0,40,5, kocaeli,Premium,1
+1975,69734.0,42,9,Antalya,Standart,1
+2003,102615.0,9,2, kocaeli,Standart,0
+1989,103523.0,50,1,İzmir,standard ,0
+1996,135103.0,27,9,Bursa,Standart,1
+1973,124476.0,58,9, kocaeli,standard ,1
+1992,132769.0,2,,Konya,Premium,1
+2019,47019.0,5,6,Ankara, Premium,1
+1988,141721.0,29,8,istanbul ,Platin,1
+2002,113613.0,37,1,Ankara, Premium,0
+2005,121794.0,38,4,Ankara,Standart,0
+2022,116672.0,19,1,İstanbul,Platin,0
+2017,103847.0,8,8,İzmir,Premium,1
+1966,112750.0,48,1,Konya,Premium,0
+1988,109634.0,45,3,bursa,Premium,0
+1988,58251.0,1,4, kocaeli,standard ,1
+2004,133481.0,22,8,istanbul , Premium,1
+1990,142566.0,52,6,Bursa,Platin,1
+2022,55945.0,17,7,Konya,Premium,1
+2022,120852.0,7,8,Antalya,Premium,1
+1961,62217.0,25,2,bursa,Platin,0
+1987,999999.0,45,8,İstanbul,Standart,1
+2022,35949.0,4,3,İstanbul,Standart,1
+1963,81990.0,36,7,Konya,Standart,1
+1987,31150.0,6,3,Ankara,Standart,0
+1969,119480.0,31,7,Antalya,Standart,1
+2022,130235.0,19,2,İstanbul,Standart,0
+1997,104740.0,44,6,istanbul ,Standart,1
+2011,146352.0,54,3,İstanbul,Standart,0
+2004,96617.0,39,3,Bursa, Premium,0
+1984,124841.0,27,9, kocaeli,Premium,1
+2019,46896.0,10,7,İstanbul,Standart,1
+1992,76175.0,26,5,Bursa,Platin,1
+2012,37805.0,19,7,Konya,Standart,1
+2022,35237.0,39,9,Konya, Premium,1
+2018,145247.0,3,,bursa,Platin,0
+2012,999999.0,45,7,İstanbul,Standart,1
+1972,75543.0,13,6,istanbul ,Premium,1
+1999,86556.0,50,9,İstanbul,standard ,1
+1962,144548.0,28,1,istanbul , Premium,0
+1963,141488.0,58,4,İzmir,Premium,0
+2016,33343.0,20,9,bursa,Premium,1
+2019,43500.0,28,4,İzmir,Standart,0
+1962,83222.0,8,3,İstanbul, Premium,0
+1962,59375.0,41,9,bursa,Standart,1
+2014,39662.0,39,2,İzmir, Premium,0
+1961,46964.0,1,4,Ankara,Premium,1
+1979,143429.0,3,6,İstanbul,Premium,1
+1962,89638.0,13,2,İzmir,Premium,0
+2013,103666.0,28,8,Ankara,Standart,1
+2004,115067.0,57,8,Ankara,Standart,1
+1992,148937.0,49,1,Konya,Standart,0
+1992,97215.0,25,3,İstanbul,Standart,0
+2015,99042.0,56,9,Ankara,Platin,1
+2016,43284.0,33,5,Konya,Standart,0
+1977,102789.0,38,6,İzmir,Standart,1
+1998,999999.0,53,4,Bursa, Premium,0
+1984,123468.0,6,2,İstanbul,standard ,0
+1971,91389.0,58,8,bursa, Premium,1
+1976,39435.0,44,6,istanbul , Premium,1
+2019,84340.0,45,5,istanbul ,Standart,0
+1963,74078.0,32,9,İzmir,Standart,1
+1980,108832.0,45,1,İzmir,Platin,0
+2019,81293.0,47,5,Ankara,Platin,0
+1996,125981.0,21,6,İstanbul,Standart,1
+1979,108781.0,16,5,istanbul ,standard ,1
+1979,90403.0,54,6,istanbul ,Standart,0
+1980,59124.0,21,6,Ankara,Standart,1
+2012,125435.0,11,7,istanbul ,Premium,1
+1993,73919.0,37,4,bursa,Premium,0
+2000,138761.0,36,8,İstanbul,Premium,1
+1999,65247.0,35,7, kocaeli,Standart,1
+1961,124758.0,19,9,istanbul ,standard ,1
+1971,121747.0,20,7,İzmir,Standart,1
+2017,92752.0,57,3,bursa,Standart,0
+2010,86573.0,18,3,istanbul ,standard ,0
+1983,89101.0,47,8,bursa, Premium,1
+1991,132756.0,41,5,Konya,standard ,1
+2002,56646.0,49,4, kocaeli,standard ,0
+1967,134185.0,14,8,Antalya,Platin,1
+1976,53049.0,15,,İzmir,Premium,1
+2020,109605.0,31,,İzmir,Standart,0
+1962,128116.0,1,4,İstanbul,Premium,1
+1961,127379.0,53,4,bursa,Standart,0
+2008,98385.0,54,6,Ankara,Standart,0
+1972,70158.0,54,6,İzmir,Platin,0
+1997,95417.0,3,1,bursa,Premium,0
+1992,53289.0,16,8,bursa,Standart,1
+1969,140226.0,23,6,Bursa,Standart,1
+1979,130793.0,57,3,Bursa,Platin,0
+2008,39823.0,11,9,Antalya,Standart,1
+1963,90160.0,12,2,Konya,standard ,0
+1980,71975.0,10,8,Antalya,Premium,1
+1984,39540.0,32,3,istanbul ,Premium,0
+2014,46364.0,16,5,Ankara,Premium,1
+1993,34611.0,8,6,istanbul ,standard ,1
+1984,57663.0,38,,istanbul ,Standart,1
+1996,81991.0,12,4,İstanbul,Platin,1
+1998,87679.0,24,3,istanbul ,Premium,0
+1985,134182.0,28,,Antalya,Standart,0
+1978,60977.0,53,1,İzmir,standard ,0
+2014,124704.0,8,,İzmir,Platin,1
+1995,79115.0,58,1,Bursa,Platin,0
+2021,121007.0,28,1,Ankara,standard ,0
+2001,118223.0,36,6,Ankara,standard ,1
+1993,90890.0,26,5,İstanbul,Platin,1
+1993,96387.0,8,4,Antalya,standard ,1
+1974,48071.0,58,3,Bursa,Platin,0
+1981,89275.0,50,1,Ankara,Platin,0
+2008,102369.0,28,6,İzmir,Premium,1
+1980,41938.0,28,,istanbul ,Platin,0
+1968,65195.0,37,8,istanbul ,Standart,1
+1967,121680.0,41,5,Bursa,standard ,1
+1977,34000.0,36,7,Antalya,standard ,1
+1993,100588.0,27,2,Antalya,Standart,0
+2008,131042.0,54,8,Konya,standard ,1
+2019,123610.0,17,2, kocaeli,Standart,0
+1982,133691.0,9,4,Ankara,Standart,1
+1990,136306.0,33,1,Antalya,Platin,0
+1998,127856.0,53,5,İzmir,Standart,0
+2011,68304.0,20,9,Bursa,standard ,1
+2014,141783.0,13,1,Konya,standard ,0
+1968,99449.0,28,9,bursa,Premium,1
+1987,112986.0,48,8,İstanbul,Standart,1
+1987,119643.0,29,6,bursa,Standart,1
+1981,50764.0,13,7,istanbul ,Premium,1
+1990,138940.0,46,3,İstanbul, Premium,0
+1988,116027.0,35,1,Ankara,Premium,0
+2024,68494.0,6,,İzmir,Standart,1
+2021,33373.0,18,2,İstanbul,Premium,0
+2008,42161.0,51,5, kocaeli,Premium,0
+1979,127532.0,5,,bursa,Platin,1
+1964,122658.0,47,9,Ankara,Standart,1
+1995,130386.0,25,2, kocaeli,Platin,0
+2024,57350.0,2,3,istanbul ,Premium,1
+2009,123008.0,10,3, kocaeli, Premium,0
+1977,124297.0,56,1,Konya,Standart,0
+2004,55351.0,30,,Konya,Premium,1
+1990,118668.0,50,6,Bursa, Premium,0
+2006,144585.0,59,8,Ankara,Standart,1
+2012,-45000.0,10,5, kocaeli,Standart,1
